@@ -1,0 +1,36 @@
+body{
+  background-color: rgb(166, 251, 242);
+}
+header{
+  color: rgb(175, 54, 175);
+}
+h2{
+  color: rgb(175, 54, 175);
+}
+main{
+  display: flex;
+}
+article{
+  background-color: rgb(56, 206, 206);
+  width: 30%;
+  padding: 10%;
+}
+aside{
+  background-color: rgb(195, 83, 195);
+  width: 30%;
+  height: 100;
+}
+aside ul{
+  display:flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+a{
+  font-weight: bold;
+  text-decoration: none;
+}
+footer{
+  padding: 2rem;
+  background-color: rgb(71, 139, 228);
+}
+
